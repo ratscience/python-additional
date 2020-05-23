@@ -1,5 +1,6 @@
 # ratscience: Python Additional Packages
 
+[![Build Status](https://travis-ci.org/ratscience/python-additional.svg?branch=master)](https://travis-ci.org/ratscience/python-additional)
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-2d2d2d.svg)](http://commonmark.org)
 [![License: Unlicense](https://img.shields.io/badge/License-Unlicense-green.svg)](https://unlicense.org/)
 
