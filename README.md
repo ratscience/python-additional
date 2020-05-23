@@ -33,23 +33,39 @@ Provides:
 
 ## Usage
 
-### Method 1
+### Install
 
-TODO
+#### Method 1. Install directly from url raw file
 
-### Method 2
-
-Clone this repository as ``, then go to the repository directory and run:
+Run this script:
 
 ```bash
-pip install -U -r requirements.txt
+pip install --user -U -r https://raw.githubusercontent.com/ratscience/python-additional/master/requirements.txt
 ```
 
 or if you use [virtualenv](https://github.com/pypa/virtualenv):
 
 ```bash
-pip install -r requirements.txt
+pip install -U -r https://raw.githubusercontent.com/ratscience/python-additional/master/requirements.txt
 ```
+
+#### Method 2. Clone repo
+
+Clone this repository as `git clone https://github.com/ratscience/python-additional.git`, then go to the repo directory and run:
+
+```bash
+pip install --user -U -r requirements.txt
+```
+
+or if you use [virtualenv](https://github.com/pypa/virtualenv):
+
+```bash
+pip install -U -r requirements.txt
+```
+
+### Update
+
+For update, simply re-run any of install scripts. If you clone git repo, please run `git pull` first.
 
 ## Acknowledgements
 
