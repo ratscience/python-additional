@@ -39,13 +39,13 @@ Provides:
 Run this script:
 
 ```bash
-pip install --user -U -r https://raw.githubusercontent.com/ratscience/python-additional/master/requirements.txt
+pip3 install --user -U -r https://raw.githubusercontent.com/ratscience/python-additional/master/requirements.txt
 ```
 
 or if you use [virtualenv](https://github.com/pypa/virtualenv):
 
 ```bash
-pip install -U -r https://raw.githubusercontent.com/ratscience/python-additional/master/requirements.txt
+pip3 install -U -r https://raw.githubusercontent.com/ratscience/python-additional/master/requirements.txt
 ```
 
 #### Method 2. Clone repo
@@ -53,13 +53,13 @@ pip install -U -r https://raw.githubusercontent.com/ratscience/python-additional
 Clone this repository as `git clone https://github.com/ratscience/python-additional.git`, then go to the repo directory and run:
 
 ```bash
-pip install --user -U -r requirements.txt
+pip3 install --user -U -r requirements.txt
 ```
 
 or if you use [virtualenv](https://github.com/pypa/virtualenv):
 
 ```bash
-pip install -U -r requirements.txt
+pip3 install -U -r requirements.txt
 ```
 
 ### Update
