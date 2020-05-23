@@ -23,7 +23,6 @@ Provides:
 * [pydocstyle](https://github.com/PyCQA/pydocstyle)
 * [pylint](https://github.com/PyCQA/pylint)
 * [pytest](https://github.com/pytest-dev/pytest)
-* [pytype](https://github.com/google/pytype)
 * [pyyaml](https://github.com/yaml/pyyaml)
 * [requests](https://github.com/psf/requests)
 * [rope](https://github.com/python-rope/rope)
