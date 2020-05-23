@@ -14,3 +14,5 @@ repos:
         name: pre-commit-hooks - Tests should end in _test.py
       - id: requirements-txt-fixer
         name: pre-commit-hooks - Fix requirements.txt
+      - id: check-yaml
+        name: pre-commit-hooks - Check YAML
