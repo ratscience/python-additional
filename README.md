@@ -1,8 +1,12 @@
 # ratscience: Python Additional Packages
 
+[![made-with-markdown](https://img.shields.io/badge/Made%20with-Markdown-2d2d2d.svg?style=flat-square)](http://commonmark.org)
+
+---
+
 [![Build Status](https://travis-ci.org/ratscience/python-additional.svg?branch=master)](https://travis-ci.org/ratscience/python-additional)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-2d2d2d.svg)](http://commonmark.org)
-[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-green.svg)](https://unlicense.org/)
+
+---
 
 This repository contains `requirements.txt` file with a periodically updated list of packages and their versions.
 The main task of this repository is to instantly synchronize packages and versions between different projects or team members.
@@ -35,7 +39,7 @@ Provides:
 
 ### Install
 
-#### Method 1. Install directly from url raw file
+#### Method 1. Install directly from URL raw file
 
 Run this script:
 
@@ -77,4 +81,6 @@ This project is actively uses this awesome packages:
 
 ## License
 
-This project is licensed under the terms of the [Unlicense](https://unlicense.org/) (see [LICENSE](<https://github.com/ratscience/python-base/blob/master/LICENSE>) file).
+[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-green.svg?style=flat-square)](https://unlicense.org/)
+
+This project is licensed under the terms of the [Unlicense](https://unlicense.org/) (see [LICENSE](<https://github.com/ratscience/python-additional/blob/master/LICENSE>) file).
