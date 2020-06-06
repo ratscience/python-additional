@@ -1,6 +1,7 @@
 # ratscience: Python Additional Packages
 
 [![made-with-markdown](https://img.shields.io/badge/Made%20with-Markdown-2d2d2d.svg?style=flat-square)](http://commonmark.org)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-204A6A.svg?style=flat-square)](https://www.python.org/)
 
 ---
 
